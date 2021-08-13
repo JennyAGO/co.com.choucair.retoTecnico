@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Utest" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-08-13T03:44:58" hostname="tiven-PC" time="0.501">
+  <properties/>
+  <testcase name="Enter the uTest page" classname="Utest" time="0.501">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2a507f94
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@38ee0999
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4efa24cd
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Enter the uTest page:Given than Jennifer wants to enter uTest as a new user
+| strUser | strPassword |
+| TuUsuario | TuClave |, When she looking for the log option (JOIN TODAY)
+| strRegistro |
+| pagina uTest.com |, Then she registers on the page to have an account on uTest
+| strRegistro |
+| pagina uTest.com |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Enter the uTest page:Given than Jennifer wants to enter uTest as a new user
+| strUser | strPassword |
+| TuUsuario | TuClave |, When she looking for the log option (JOIN TODAY)
+| strRegistro |
+| pagina uTest.com |, Then she registers on the page to have an account on uTest
+| strRegistro |
+| pagina uTest.com |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Enter the uTest page:Given than Jennifer wants to enter uTest as a new user
+| strUser | strPassword |
+| TuUsuario | TuClave |, When she looking for the log option (JOIN TODAY)
+| strRegistro |
+| pagina uTest.com |, Then she registers on the page to have an account on uTest
+| strRegistro |
+| pagina uTest.com |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Enter the uTest page
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
